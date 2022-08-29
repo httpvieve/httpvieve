@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **making random stuff..**
 
-- 💬 Ask me about **olympiad/theoretical math stuff, c**
+- 💬 Ask me about **olympiad/theoretical math, c**
 
 - 📫 How to reach me **genevieve_balestramon@dlsu.edu.ph**
 
-- ⚡ Fun fact : **I have a pet fish named Cheesecak!** (I'm also *juuust a tiny bit* addicted to caffeine XD)
+- ⚡ Fun fact : **I have a pet fish 🐟 named Cheesecak!** (I'm also addicted to caffeine XD)
 
 ---
  
