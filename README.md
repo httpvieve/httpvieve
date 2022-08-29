@@ -5,21 +5,17 @@
  <h1 align="center">Hello 👋 I am Vieve!</h1>
 <h4 align="center">I'm currently a second year Computer science undergraduate at De La Salle University.</h4> 
 
-
-
 ### This user is currently listening to...  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ebqbaeddkkf7nzt3v6utetr6ey&cover_image=true&theme=novatorem&bar_color=8bdd88&bar_color_cover=false" /></div>  
 
 ----
-- 🌱 I’m currently learning **java**, **functional prog** (haskell) and **college maths** (linear alg + calc)
+🌱 $\rightarrow$ i’m currently learning **oop in java** and adv studying college maths (**linear alg + calc**) this break^^
 
-- 🔭 I’m currently working on **making random stuff..**
+💬 $\rightarrow$ ask me about **hs olympiad/theoretical maths or C** (no geom plz)
 
-- 💬 Ask me about **olympiad/theoretical math, c**
+ 📫 $\rightarrow$ how to reach me : **genevieve_balestramon@dlsu.edu.ph**
 
-- 📫 How to reach me **genevieve_balestramon@dlsu.edu.ph**
-
-- ⚡ Fun fact : **I have a pet fish 🐟 named Cheesecak!** (I'm also addicted to caffeine XD)
+⚡ $\rightarrow$ fun fact : i have a pet **fish** 🐟 named **Cheesecak!** 
 
 ---
  
@@ -37,16 +33,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+</p>
 
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=httpvieve&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=httpvieve&" alt="httpvieve" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=httpvieve&" alt="httpvieve" />
 </div>   
-
 <div align="center"><img src="https://komarev.com/ghpvc/?username=httpvieve&&style=flat-square" align="center" />
 </div>  
   
