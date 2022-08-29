@@ -12,7 +12,7 @@
 - 📫 How to reach me **genevieve_balestramon@dlsu.edu.ph**
 
 - ⚡ Fun fact **addicted to caffeine**
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ebqbaeddkkf7nzt3v6utetr6ey&cover_image=true&theme=novatorem&bar_color=8bdd88&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vs25_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vs25_" height="30" width="40" /></a>
