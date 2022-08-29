@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpvieve&label=Profile%20views&color=0e75b6&style=flat" alt="httpvieve" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpvieve" alt="httpvieve" /></a> </p>
-
 - 🔭 I’m currently working on **making random stuff**
 
 - 🌱 I’m currently learning **java, functional prog (haskell) and college maths (linear alg + calc)**
