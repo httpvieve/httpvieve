@@ -3,19 +3,9 @@
 </div>  
 
  <h1 align="center">Hello 👋 I am Vieve!</h1>
-<h4 align="center">I'm currently a second year Computer science undergraduate at De La Salle University.</h4> 
-
+ 
 ### This user is currently listening to...  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ebqbaeddkkf7nzt3v6utetr6ey&cover_image=true&theme=novatorem&bar_color=8bdd88&bar_color_cover=false" /></div>  
-
-----
-🌱 $\rightarrow$ i’m currently learning **oop in java** and adv studying college maths (**linear alg + calc**) this break^^
-
-💬 $\rightarrow$ ask me about **hs olympiad/theoretical maths or C** (no geom plz)
-
- 📫 $\rightarrow$ how to reach me : **genevieve_balestramon@dlsu.edu.ph**
-
-⚡ $\rightarrow$ fun fact : i have a pet **fish** 🐟 named **Cheesecak!** 
 
 ---
  
