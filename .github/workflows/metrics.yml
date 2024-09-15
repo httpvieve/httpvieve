@@ -34,6 +34,6 @@ jobs:
             polyglot, stargazer, deployer, member, maintainer, developer, scripter
           plugin_achievements_threshold: X
           plugin_languages_ignored: >-
-            html, css, dockerfile, makefile, qmake, cmake
+            html, css, dockerfile, makefile, qmake, cmake, python
           config_timezone: Asia/Kuala_Lumpur
           
