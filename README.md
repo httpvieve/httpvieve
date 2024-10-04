@@ -4,4 +4,4 @@
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-[![An image of @httpvieve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/httpvieve)](https://holopin.io/@httpvieve)
+[![wakatime](https://wakatime.com/badge/user/577b19da-2f18-4abb-b52d-3c4edd9c061b.svg)](https://wakatime.com/@577b19da-2f18-4abb-b52d-3c4edd9c061b)
