@@ -5,3 +5,4 @@
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 [![wakatime](https://wakatime.com/badge/user/577b19da-2f18-4abb-b52d-3c4edd9c061b.svg)](https://wakatime.com/@577b19da-2f18-4abb-b52d-3c4edd9c061b)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11MFSW)
