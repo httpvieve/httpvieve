@@ -1,5 +1,5 @@
 
-<center>
+<div align="center">
   
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=vieve%20🐟&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
@@ -9,5 +9,5 @@
 
 [![wakatime](https://wakatime.com/badge/user/577b19da-2f18-4abb-b52d-3c4edd9c061b.svg)](https://wakatime.com/@577b19da-2f18-4abb-b52d-3c4edd9c061b)
 
-</center>
+</div>
 
